@@ -1,0 +1,476 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1704816618895837, "dur":5085, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1704816618900953, "dur":740, "ph":"X", "name": "Tundra",  "args": { "detail":"RemoveStaleOutputs" }}
+,{ "pid":12345, "tid":0, "ts":1704816618901745, "dur":365, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
+,{ "pid":12345, "tid":0, "ts":1704816618902111, "dur":677, "ph":"X", "name": "Tundra",  "args": { "detail":"BuildQueueInit" }}
+,{ "pid":12345, "tid":0, "ts":1704816618902891, "dur":1457, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1704816618904348, "dur":3, "ph":"X", "name": "SortWorkingStack",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1704816624100017, "dur":357, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1704816624100374, "dur":35, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1704816624100409, "dur":1862, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1704816624102272, "dur":65, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1704816624102337, "dur":6, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1704816624102343, "dur":28, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1704816624102371, "dur":5, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1704816624102376, "dur":12, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1704816624102388, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1704816624102392, "dur":13, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1704816624102405, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1704816624102408, "dur":11, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1704816624102419, "dur":4, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1704816624102423, "dur":13, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1704816624102436, "dur":5, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1704816624102441, "dur":11, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1704816624102452, "dur":0, "ph":"X", "name": "SharedResourceDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1704816624102499, "dur":15, "ph":"X", "name": "BuildQueueDestroyTail",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1704816624103071, "dur":8482, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1704816618903827, "dur":546, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1704816618904380, "dur":11491, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1704816618915895, "dur":3, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1704816618915909, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1704816618923446, "dur":2031, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1704816618925488, "dur":133, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1704816618925626, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1704816618930508, "dur":22756, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1704816618953296, "dur":63781, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":1, "ts":1704816619017150, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1704816619017202, "dur":8018, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":1, "ts":1704816619025393, "dur":572444, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":1, "ts":1704816619597846, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1704816619598720, "dur":4555, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":1, "ts":1704816619603352, "dur":300388, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1704816619903749, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1704816619903767, "dur":3255, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1704816619907113, "dur":548887, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":1, "ts":1704816620456011, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1704816620456028, "dur":15504, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":1, "ts":1704816620471656, "dur":142446, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1704816620614111, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1704816620614129, "dur":26003, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1704816620640235, "dur":865559, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1704816621505803, "dur":5, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1704816621505823, "dur":34685, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1704816621540607, "dur":57154, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1704816621597786, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1704816621597852, "dur":2996, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1704816621600966, "dur":175842, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":1, "ts":1704816621776819, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1704816621776838, "dur":3064, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":1, "ts":1704816621780023, "dur":251715, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":1, "ts":1704816622031749, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1704816622031773, "dur":3344, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":1, "ts":1704816622035205, "dur":195851, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":1, "ts":1704816622231064, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1704816622231082, "dur":2834, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":1, "ts":1704816622234024, "dur":106622, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":1, "ts":1704816622340656, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1704816622340686, "dur":2940, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":1, "ts":1704816622343725, "dur":262652, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":1, "ts":1704816622606386, "dur":5, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1704816622606408, "dur":2724, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":1, "ts":1704816622609217, "dur":269342, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":1, "ts":1704816622878570, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1704816622878591, "dur":9735, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":1, "ts":1704816622888416, "dur":749488, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":1, "ts":1704816623637915, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1704816623637934, "dur":7877, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":1, "ts":1704816623645911, "dur":454030, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1704816618903827, "dur":563, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1704816618904391, "dur":11677, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1704816618916069, "dur":1003, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":2, "ts":1704816618917079, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1704816618924893, "dur":23809, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":2, "ts":1704816618949212, "dur":28899, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":2, "ts":1704816618978121, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1704816618978145, "dur":4049, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":2, "ts":1704816618982304, "dur":28899, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":2, "ts":1704816619011213, "dur":5, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1704816619011252, "dur":13072, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":2, "ts":1704816619024449, "dur":139, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":2, "ts":1704816619024594, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1704816619024609, "dur":27249, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":2, "ts":1704816619052104, "dur":1290414, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":2, "ts":1704816620342527, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1704816620342542, "dur":4300, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":2, "ts":1704816620347132, "dur":47340, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1704816620394486, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1704816620394508, "dur":3386, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1704816620398039, "dur":46319, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1704816620444369, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1704816620444387, "dur":11647, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1704816620456132, "dur":49532, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1704816620505676, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1704816620505696, "dur":2474, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1704816620508268, "dur":687862, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1704816621196984, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1704816621197001, "dur":103109, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1704816621300222, "dur":74963, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1704816621375195, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1704816621375215, "dur":10061, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1704816621385388, "dur":1096145, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1704816622481543, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1704816622481562, "dur":6287, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1704816622487946, "dur":473806, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":2, "ts":1704816622961761, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1704816622961779, "dur":4579, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":2, "ts":1704816622966500, "dur":798, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":2, "ts":1704816622967312, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1704816622967581, "dur":5529, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":2, "ts":1704816622973205, "dur":138, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/sharedassets1.resource" }}
+,{ "pid":12345, "tid":2, "ts":1704816622973350, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1704816622973368, "dur":160985, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/sharedassets1.resource" }}
+,{ "pid":12345, "tid":2, "ts":1704816623134441, "dur":272, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":2, "ts":1704816623134722, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1704816623134739, "dur":9040, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":2, "ts":1704816623143872, "dur":82, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":2, "ts":1704816623143960, "dur":11, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1704816623143984, "dur":16986, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":2, "ts":1704816623161063, "dur":82, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/level0.resS" }}
+,{ "pid":12345, "tid":2, "ts":1704816623161150, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1704816623161163, "dur":4265, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/level0.resS" }}
+,{ "pid":12345, "tid":2, "ts":1704816623165500, "dur":257, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1704816623165763, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1704816623165775, "dur":14508, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1704816623180377, "dur":921812, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1704816618904050, "dur":380, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1704816618904430, "dur":11464, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1704816618915894, "dur":61421, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1704816618977324, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1704816619020298, "dur":28308, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1704816619048959, "dur":1276210, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":3, "ts":1704816620325180, "dur":5, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1704816620325201, "dur":682667, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":3, "ts":1704816621007978, "dur":296607, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1704816621304595, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1704816621304612, "dur":19778, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1704816621324491, "dur":188582, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1704816621513084, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1704816621513102, "dur":32217, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1704816621545424, "dur":348552, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":3, "ts":1704816621893985, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1704816621894004, "dur":6078, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":3, "ts":1704816621900174, "dur":260793, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":3, "ts":1704816622160979, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1704816622160998, "dur":3281, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":3, "ts":1704816622164366, "dur":247272, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":3, "ts":1704816622411694, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1704816622411798, "dur":3387, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":3, "ts":1704816622415271, "dur":99974, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":3, "ts":1704816622515262, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1704816622515281, "dur":73087, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":3, "ts":1704816622588458, "dur":427823, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":3, "ts":1704816623016294, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1704816623016318, "dur":5316, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":3, "ts":1704816623021726, "dur":124, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":3, "ts":1704816623021856, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1704816623021870, "dur":113774, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":3, "ts":1704816623135764, "dur":58271, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":3, "ts":1704816623194044, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1704816623194111, "dur":3138, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":3, "ts":1704816623197343, "dur":904509, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1704816618903953, "dur":452, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1704816618904407, "dur":11517, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1704816618915925, "dur":60222, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":4, "ts":1704816618976157, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1704816619018111, "dur":37894, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":4, "ts":1704816619056120, "dur":115, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":4, "ts":1704816619056240, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1704816619076068, "dur":53517, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":4, "ts":1704816619130349, "dur":78528, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1704816619208887, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1704816619209114, "dur":4164, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1704816619213413, "dur":246979, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1704816619460399, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1704816619460414, "dur":11651, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1704816619472249, "dur":143459, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1704816619615717, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1704816619615734, "dur":7822, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1704816619623693, "dur":58936, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1704816619682640, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1704816619682659, "dur":4647, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1704816619687537, "dur":58755, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1704816619746301, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1704816619746317, "dur":12871, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1704816619759278, "dur":268786, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1704816620028074, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1704816620028091, "dur":14688, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1704816620044181, "dur":294787, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1704816620339305, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1704816620339325, "dur":47081, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1704816620386526, "dur":148767, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1704816620535303, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1704816620535321, "dur":54833, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1704816620590251, "dur":311045, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1704816620901309, "dur":6, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1704816620901330, "dur":91493, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1704816620993017, "dur":59571, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1704816621052598, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1704816621052617, "dur":144151, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1704816621196863, "dur":54182, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1704816621251055, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1704816621251074, "dur":48910, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1704816621300163, "dur":101994, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1704816621402168, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1704816621402188, "dur":135564, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1704816621537865, "dur":161465, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1704816621699340, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1704816621699358, "dur":29587, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1704816621729032, "dur":1032741, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":4, "ts":1704816622761783, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1704816622761802, "dur":30790, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":4, "ts":1704816622792671, "dur":284885, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":4, "ts":1704816623077565, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1704816623077581, "dur":3155, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":4, "ts":1704816623080818, "dur":125, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":4, "ts":1704816623080948, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1704816623080962, "dur":76713, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":4, "ts":1704816623157812, "dur":81, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/level1" }}
+,{ "pid":12345, "tid":4, "ts":1704816623157899, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1704816623157913, "dur":7467, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/level1" }}
+,{ "pid":12345, "tid":4, "ts":1704816623165476, "dur":133, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":4, "ts":1704816623165616, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1704816623165629, "dur":8939, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":4, "ts":1704816623174667, "dur":925334, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1704816618904137, "dur":283, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1704816618904420, "dur":11497, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1704816618915918, "dur":444, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":5, "ts":1704816618916370, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1704816618924676, "dur":45364, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":5, "ts":1704816619015497, "dur":292, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":5, "ts":1704816619015802, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1704816619015824, "dur":38453, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":5, "ts":1704816619054378, "dur":792146, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/Environment.exe" }}
+,{ "pid":12345, "tid":5, "ts":1704816619846533, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1704816619846549, "dur":5925, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/Environment.exe" }}
+,{ "pid":12345, "tid":5, "ts":1704816619852581, "dur":143196, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1704816619995787, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1704816619995805, "dur":32728, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1704816620028655, "dur":198014, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1704816620226678, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1704816620226695, "dur":5327, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1704816620232106, "dur":104567, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1704816620336682, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1704816620336700, "dur":3859, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1704816620340679, "dur":193036, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1704816620533725, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1704816620533743, "dur":22405, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1704816620556243, "dur":95708, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1704816620651959, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1704816620651976, "dur":231512, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1704816620883593, "dur":98745, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1704816620993357, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1704816620993380, "dur":49909, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1704816621043423, "dur":174493, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1704816621217969, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1704816621217988, "dur":8276, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1704816621226359, "dur":122700, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1704816621349068, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1704816621349087, "dur":13793, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1704816621363048, "dur":278964, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1704816621642029, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1704816621642124, "dur":67519, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1704816621709781, "dur":278910, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":5, "ts":1704816621988701, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1704816621988719, "dur":38764, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":5, "ts":1704816622027604, "dur":835499, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":5, "ts":1704816622863114, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1704816622863133, "dur":20443, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":5, "ts":1704816622883656, "dur":1197734, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":5, "ts":1704816624081401, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1704816624081423, "dur":18346, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":5, "ts":1704816624099884, "dur":3, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"Player" }}
+,{ "pid":12345, "tid":5, "ts":1704816624099890, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1704816618904291, "dur":150, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1704816618904442, "dur":11434, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1704816618915895, "dur":136691, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":6, "ts":1704816619052598, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1704816619055262, "dur":5755, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":6, "ts":1704816619061132, "dur":399199, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1704816619460343, "dur":5, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1704816619460364, "dur":9672, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1704816619470125, "dur":143413, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1704816619613548, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1704816619613568, "dur":3002, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1704816619616647, "dur":49055, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1704816619665713, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1704816619665733, "dur":2374, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1704816619668215, "dur":46349, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1704816619714573, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1704816619714590, "dur":4055, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1704816619718783, "dur":41887, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1704816619760680, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1704816619760698, "dur":3283, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1704816619764088, "dur":48237, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1704816619812335, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1704816619812353, "dur":5079, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1704816619817519, "dur":89635, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1704816619907161, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1704816619907179, "dur":5285, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1704816619912559, "dur":43377, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1704816619955947, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1704816619955965, "dur":4537, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1704816619960587, "dur":83104, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1704816620043701, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1704816620043721, "dur":3965, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1704816620047772, "dur":194806, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1704816620242588, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1704816620242610, "dur":4256, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1704816620246969, "dur":165808, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1704816620412789, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1704816620412811, "dur":3052, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1704816620415985, "dur":79155, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1704816620495152, "dur":5, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1704816620495176, "dur":3072, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1704816620498335, "dur":66687, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1704816620565032, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1704816620565053, "dur":7276, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1704816620572430, "dur":61817, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1704816620634260, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1704816620634284, "dur":5097, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1704816620639538, "dur":256453, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1704816620896002, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1704816620896023, "dur":14574, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1704816620910733, "dur":68812, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1704816620992790, "dur":5, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1704816620992843, "dur":189162, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1704816621182078, "dur":87573, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1704816621269676, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1704816621269697, "dur":39461, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1704816621309239, "dur":204268, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1704816621513515, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1704816621513533, "dur":36680, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1704816621550334, "dur":255629, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":6, "ts":1704816621805978, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1704816621806030, "dur":6394, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":6, "ts":1704816621812527, "dur":180753, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":6, "ts":1704816621993289, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1704816621993371, "dur":31114, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":6, "ts":1704816622024572, "dur":489260, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":6, "ts":1704816622513841, "dur":5, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1704816622513862, "dur":10705, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":6, "ts":1704816622524648, "dur":111985, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":6, "ts":1704816622636642, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1704816622636660, "dur":2700, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":6, "ts":1704816622639449, "dur":312660, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":6, "ts":1704816622952119, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1704816622952140, "dur":4927, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":6, "ts":1704816622957237, "dur":97771, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":6, "ts":1704816623055017, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1704816623055041, "dur":3877, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":6, "ts":1704816623058993, "dur":119, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":6, "ts":1704816623059117, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1704816623059132, "dur":59615, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":6, "ts":1704816623118928, "dur":163, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":6, "ts":1704816623119100, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1704816623119116, "dur":35194, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":6, "ts":1704816623154387, "dur":69, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/level1.resS" }}
+,{ "pid":12345, "tid":6, "ts":1704816623154461, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1704816623154473, "dur":10252, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/level1.resS" }}
+,{ "pid":12345, "tid":6, "ts":1704816623164809, "dur":142, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":6, "ts":1704816623164998, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1704816623165014, "dur":8114, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":6, "ts":1704816623173240, "dur":929022, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1704816618904421, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1704816618904421, "dur":11641, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1704816618916064, "dur":695, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":7, "ts":1704816618916768, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1704816618925064, "dur":25105, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":7, "ts":1704816618951385, "dur":170, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":7, "ts":1704816618951564, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1704816618951711, "dur":23594, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":7, "ts":1704816618975424, "dur":124, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":7, "ts":1704816618975554, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1704816618978925, "dur":6604, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":7, "ts":1704816618985655, "dur":144, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":7, "ts":1704816618985807, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1704816618985953, "dur":12744, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":7, "ts":1704816618999427, "dur":270, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":7, "ts":1704816618999709, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1704816618999733, "dur":25841, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":7, "ts":1704816619025807, "dur":1268810, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":7, "ts":1704816620295085, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1704816620295691, "dur":18623, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":7, "ts":1704816620314410, "dur":100206, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1704816620414625, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1704816620414644, "dur":4074, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1704816620418819, "dur":53234, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1704816620472110, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1704816620472127, "dur":3224, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1704816620475448, "dur":501432, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1704816620990194, "dur":7, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1704816620990231, "dur":150658, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1704816621141022, "dur":192527, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":7, "ts":1704816621333558, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1704816621333576, "dur":14355, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":7, "ts":1704816621348431, "dur":59142, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1704816621407583, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1704816621407604, "dur":134306, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1704816621542040, "dur":239183, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":7, "ts":1704816621781233, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1704816621781252, "dur":2936, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":7, "ts":1704816621784282, "dur":706074, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":7, "ts":1704816622490365, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1704816622490380, "dur":20764, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":7, "ts":1704816622511232, "dur":571526, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":7, "ts":1704816623082767, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1704816623082786, "dur":10607, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":7, "ts":1704816623093522, "dur":166, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":7, "ts":1704816623093695, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1704816623093709, "dur":60307, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":7, "ts":1704816623154111, "dur":128, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/resources.assets" }}
+,{ "pid":12345, "tid":7, "ts":1704816623154246, "dur":14, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1704816623154275, "dur":9412, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/resources.assets" }}
+,{ "pid":12345, "tid":7, "ts":1704816623163778, "dur":79, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/level0" }}
+,{ "pid":12345, "tid":7, "ts":1704816623163862, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1704816623163878, "dur":26071, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/level0" }}
+,{ "pid":12345, "tid":7, "ts":1704816623190036, "dur":912052, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1704816618904496, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1704816618904496, "dur":11384, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1704816618915895, "dur":474, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":8, "ts":1704816618916376, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1704816618929350, "dur":42714, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":8, "ts":1704816618972981, "dur":1724, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":8, "ts":1704816618974784, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1704816618974864, "dur":17426, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":8, "ts":1704816618992389, "dur":51539, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":8, "ts":1704816619043939, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1704816619043960, "dur":33984, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":8, "ts":1704816619083660, "dur":67802, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1704816619151471, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1704816619153985, "dur":32941, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1704816619187047, "dur":275430, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1704816619462488, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1704816619462508, "dur":8368, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1704816619471000, "dur":85987, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1704816619556998, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1704816619557017, "dur":5373, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1704816619562848, "dur":52257, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1704816619615115, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1704816619615136, "dur":7039, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1704816619622279, "dur":66740, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1704816619689031, "dur":5, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1704816619689052, "dur":4226, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1704816619693390, "dur":173995, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1704816619867394, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1704816619867740, "dur":8036, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1704816619876002, "dur":565717, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1704816620441729, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1704816620441748, "dur":18744, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1704816620460643, "dur":115750, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1704816620576402, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1704816620576420, "dur":16271, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1704816620592783, "dur":309426, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1704816620902220, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1704816620902239, "dur":39553, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1704816620941885, "dur":75188, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1704816621017083, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1704816621017101, "dur":181842, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1704816621199096, "dur":1312552, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1704816622511656, "dur":10, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1704816622511682, "dur":7953, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1704816622519798, "dur":615156, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":8, "ts":1704816623134960, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1704816623134977, "dur":54855, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/asus/Desktop/Polytech/5A/VR/Environment_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":8, "ts":1704816623189920, "dur":910057, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1704816624117741, "dur":5337, "ph":"X", "name": "ProfilerWriteOutput" }
+,
